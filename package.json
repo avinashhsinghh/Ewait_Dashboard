@@ -29,4 +29,5 @@
     "postcss-preset-env": "^6.7.0",
     "tailwindcss": "^1.4.6"
   }
+  "proxy": "https://q1fjzbeq8l.execute-api.us-east-1.amazonaws.com"
 }
